@@ -33,6 +33,33 @@ ig.module(
 #### What is this code?
 When I was tinkering I found out this is the code I put in the impactjs creation module.
 
+#### What are some more codes I found on the impactsjs github?
+```js
+ig.module(
+	'impact.animation'
+)
+.requires(
+	'impact.timer',
+	'impact.image'
+)
+.defines(function(){ "use strict";
+
+ig.AnimationSheet = ig.Class.extend({
+	width: 8,
+	height: 8,
+	image: null,
+
+	init: function( path, width, height ) {
+		this.width = width;
+		this.height = height;
+
+		this.image = new ig.Image( path );
+	}
+});
+```
+
+
+
 
 [Next](entry02.md)
 [Home](../README.md)
