@@ -30,6 +30,9 @@ ig.module(
 });
 ```
 
-[Next](entry02.md)
+#### What is this code?
+When I was tinkering I found out this is the code I put in the impactjs creation module.
 
+
+[Next](entry02.md)
 [Home](../README.md)
