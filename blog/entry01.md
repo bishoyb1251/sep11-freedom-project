@@ -57,7 +57,7 @@ ig.AnimationSheet = ig.Class.extend({
 	}
 });
 ```
-
+* This would be the first line of code that I would create the game with.
 
 
 
