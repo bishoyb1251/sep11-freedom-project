@@ -17,6 +17,15 @@ I choose impact because it seemed like a easy and fun route to go. I wanted to c
 
 #### Problems so far
 The weltmeister had me at as massive struggle because well it did not allow us to work. We made it work.
+
+
+#### Sources
+
+I watched videos to be able to open the code and make it work
+
+But it didnt work...
+
+So Me and my partner asked former people who worked on Impact JS and they helped us out.
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
